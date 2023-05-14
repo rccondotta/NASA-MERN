@@ -24,3 +24,30 @@ Full stack MERN Project
 To run any automated tests, run `npm test`. This will: 
 * Run all the client-side tests: `npm test --prefix client`
 * Run all the server-side tests: `npm test --prefix server` 
+
+## Packages Used
+
+* Concurrently - Run process concurrently for windows
+* Axios - Promise based HTTP client for the browser and node.js
+* Cors - Providing a Connect/Express middleware that can be used to enable CORS with various options.
+* csv-parse
+* dotenv - Loads environment variables from a .env file into process.env
+* express - Fast, unopinionated, minimalist web framework for Node.js.
+* mongoose - MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports Node.js and Deno (alpha).
+* morgan - HTTP request logger middleware for node.js
+* pm2 - Production process manager for Node.js applications with a built-in load balance
+* jest (devDependency) - Delightful JavaScript Testing.
+* nodemon (devDependency) - Simple monitor script for use during development of a Node.js app.
+* supertest (devDependency) - SuperAgent driven library for testing HTTP servers
+
+## Concepts
+
+* Model, View, Controller
+* Middleware
+* Testing APIs
+* Improving Node Performance
+* Databases
+* Working with REST APIs (SpaceX Project)
+* Continous Integration and Delivery (Github Actions)
+* Production and the Cloud (Docker + AWS)
+
